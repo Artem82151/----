@@ -1,0 +1,63 @@
+body {
+    background-color: #000000;
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    color: #3c6b48
+    
+}
+h1{
+    color: #4be00c;
+    background:url(fgqe.jpg);
+   border: 10px solid #631a9e;
+  padding:120px;
+  font-size: 50px;
+}
+h4{
+    color: rgb(154, 145, 145);
+    padding:1px;
+    text-align: center;
+    font-size: 55px;
+}
+    
+h3{
+    padding: 20px;
+    color: #c3c5a994;
+    font-size: 30px;
+    line-height: 90px;
+}
+
+  
+
+.iten{
+    background:url(uuu.jpg);
+   
+    line-height: 20px; 
+    color: #000000; 
+}
+h2{
+    color: rgb(158, 133, 138)
+
+}
+p{
+    margin-left:50px;
+    color: #ffffff;
+}
+h6{
+    border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+  background: #c31212;
+  border: 3px solid #000;
+  color: #000;
+  text-align: center;
+  font: 32px Arial, sans-serif;
+    margin-left: 845px;
+}
+
+
+
+
+
+
+   

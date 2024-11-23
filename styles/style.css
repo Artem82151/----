@@ -1,0 +1,37 @@
+
+body {
+  padding: 0 30px;
+  font-size: 30px;
+  line-height: 50px;
+  font-family: "Arial", sans-serif;
+  color: #b43d3d;
+  
+  
+ 
+}
+
+h1 {
+background:url(uuu.jpg);
+border: 10px solid #631a9e;
+  padding:150px;
+  
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+}
+dt{color: rgb(50, 180, 104);}
+
+h3{
+  color: rgb(38, 38, 77);}
+
+h4
+ {font-size: 33px;
+  padding: 40px;
+  background-color: rgb(109, 109, 58);
+  border-radius: 40px; }
+  h5{
+    padding-bottom:20px;
+  }
+
+
+
+ 
